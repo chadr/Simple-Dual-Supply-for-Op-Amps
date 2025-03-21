@@ -1,0 +1,9 @@
+Manufacturer=C & K COMPONENTS
+PartNumber=OS202013MT8QN1
+PartCategory=Switch
+PackageCategory=Other
+PinCount=6
+Version=2.4
+Released=2024-02-12 04:32:11
+Downloaded=2024-08-21 07:23:31
+3D=Y

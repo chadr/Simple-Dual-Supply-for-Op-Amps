@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FSM6JH
+D Tactile Switches SPST OFF-(ON) Round pushbutton
+K
+F https://componentsearchengine.com/Datasheets/1/FSM6JH.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,18 @@
+.FSM6JH :1 ;Tactile Switches SPST OFF-(ON) Round pushbutton
+FSM6JH
+*STM S
+*NGS
+*PLB 1="COM_1" 2="COM_2" 3="NO_1" 4="NO_2"
+*MXP 4
+*DFN FSM6JH
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (FSM6JH)
+~!Mouser Part Number (506-FSM6JH)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/FSM6JH?qs=g%252BEszo6zu8NIk5JBdIFPPA%3D%3D)
+~!Arrow Part Number (FSM6JH)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/fsm6jh/te-connectivity?region=nac)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/FSM6JH.pdf)
+~!Height (7mm)
+~!3D_Model (FSM6JH)
+FSM6JH
+1.1!U 2.1!U 3.1!U 4.1!U 

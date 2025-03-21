@@ -1,0 +1,18 @@
+.OS202013MT8QN1 :1 ;SWITCH SLIDE DPDT 300MA 30V
+OS202013MT8QN1
+*STM S
+*NGS
+*PLB 1="NC_1" 2="COM_1" 3="NO_1" 4="NC_2" 5="COM_2" 6="NO_2"
+*MXP 6
+*DFN OS202013MT8QN1
+~!Manufacturer_Name (C & K COMPONENTS)
+~!Manufacturer_Part_Number (OS202013MT8QN1)
+~!Mouser Part Number (611-OS202013MT8QN1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CK/OS202013MT8QN1?qs=WtljUlYws5RhlgqE4KzYAw%3D%3D)
+~!Arrow Part Number (OS202013MT8QN1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/os202013mt8qn1/ck?region=europe)
+~!Link Datasheet (https://www.ckswitches.com/media/1428/os.pdf)
+~!Height (11mm)
+~!3D_Model (OS202013MT8QN1)
+OS202013MT8QN1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

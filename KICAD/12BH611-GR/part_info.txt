@@ -1,0 +1,9 @@
+Manufacturer=Eagle Plastic Devices
+PartNumber=12BH611-GR
+PartCategory=Battery
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2023-03-24 03:36:34
+Downloaded=2024-08-18 04:13:04
+3D=Y

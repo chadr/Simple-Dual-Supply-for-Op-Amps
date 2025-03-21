@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OS202013MT8QN1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "C & K COMPONENTS", "OS202013MT8QN1" (!) = "", "OS202013MT8QN1", "Other", "611-OS202013MT8QN1", "https://www.mouser.co.uk/ProductDetail/CK/OS202013MT8QN1?qs=WtljUlYws5RhlgqE4KzYAw%3D%3D", "OS202013MT8QN1", "https://www.arrow.com/en/products/os202013mt8qn1/ck?region=europe", "SWITCH SLIDE DPDT 300MA 30V", "https://www.ckswitches.com/media/1428/os.pdf", "11 mm"
+END_PART
+
+END.

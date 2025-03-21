@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "12BH611-GR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-05-02-04:29:32)
+    (mountForm default
+        (footprintRef "12BH611GR")
+        (spec "System")
+    )
+)

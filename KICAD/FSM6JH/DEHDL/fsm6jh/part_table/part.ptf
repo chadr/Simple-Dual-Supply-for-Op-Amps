@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FSM6JH'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "FSM6JH" (!) = "", "FSM6JH", "Other", "506-FSM6JH", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/FSM6JH?qs=g%252BEszo6zu8NIk5JBdIFPPA%3D%3D", "FSM6JH", "https://www.arrow.com/en/products/fsm6jh/te-connectivity?region=nac", "Tactile Switches SPST OFF-(ON) Round pushbutton", "https://componentsearchengine.com/Datasheets/1/FSM6JH.pdf", "7 mm"
+END_PART
+
+END.

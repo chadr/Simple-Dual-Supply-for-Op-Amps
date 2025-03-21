@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=FSM6JH
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2020-04-16 20:49:34
+Downloaded=2023-11-19 23:21:49
+3D=Y

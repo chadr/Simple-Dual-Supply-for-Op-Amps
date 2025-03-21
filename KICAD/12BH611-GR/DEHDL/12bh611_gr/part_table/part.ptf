@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '12BH611_GR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Eagle Plastic Devices", "12BH611-GR" (!) = "", "12BH611GR", "Other", "12BH611-GR", "https://www.mouser.co.uk/ProductDetail/Eagle-Plastic-Devices/12BH611-GR?qs=1oCNi33g9sc5AWzrf3Mgtg%3D%3D", "", "", "9V Battery Snaps & Contacts 9V PC BLK", "https://www.mouser.com/datasheet/2/209/EPD-200766-1274481.pdf", "21 mm"
+END_PART
+
+END.

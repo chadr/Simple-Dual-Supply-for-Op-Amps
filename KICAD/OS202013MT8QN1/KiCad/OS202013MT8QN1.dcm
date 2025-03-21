@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OS202013MT8QN1
+D SWITCH SLIDE DPDT 300MA 30V
+K
+F https://www.ckswitches.com/media/1428/os.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_356992"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-24-03:36:34)
+    (utime 2024-06-25-08:04:24)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "12BH611-GR")
+)
+
+
+(pinAssign "ECS_356992"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-24-03:36:34)
+    (utime 2024-06-25-08:04:24)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_356992")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "12BH611-GR")
+)
+
+
+(part "12BH611-GR"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-24-03:36:34)
+    (utime 2024-06-25-08:04:24)
+    (packageRef "12BH611-GR")
+    (pinAssignRef "ECS_356992")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "BT")
+    (property "description" "9V Battery Snaps & Contacts 9V PC BLK")
+    (property "Manufacturer_Name" "Eagle Plastic Devices")
+    (property "Manufacturer_Part_Number" "12BH611-GR")
+    (property "Mouser_Part_Number" "12BH611-GR")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Eagle-Plastic-Devices/12BH611-GR?qs=1oCNi33g9sc5AWzrf3Mgtg%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.mouser.com/datasheet/2/209/EPD-200766-1274481.pdf")
+    (property "compAreaTopHeight" 21)
+)
+
+
