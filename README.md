@@ -3,6 +3,10 @@
 ## What is this?
 This is a simple, low noise, dual supply (+/Gnd/-) for use with prototyping Op-Amps like the venerable LM358/LM324. Specifically, it's meant to be used with IMSAI Guy's Op-Amp learning PCB. [Op Amp Test Board on PCBWay](https://www.pcbway.com/project/shareproject/Op_amp_Test_Board_77211aaf.html) It uses 2 x 9V (PP3) batteries for +/- 9V (or +/- 8.4V if lithiums are used).
 
+<picture>
+  <img alt="Simple Dual Supply and IMSAI Guy PCB" src="https://github.com/chadr/Simple-Dual-Supply-for-Op-Amps/blob/main/IMAGES/1.jpg">
+</picture>
+
 ## Bill of Materials (BoM)
 | **Component** |             **Item**             |
 |:-------------:|:--------------------------------:|
